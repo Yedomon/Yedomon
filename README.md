@@ -26,6 +26,6 @@ I am from Benin, a western African country. I am currently doing a Ph.D. at Jeon
 <br>
 <div align="center">
  
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d2da763f-17f7-4fe4-9013-7b76224438ea/deploy-status)](https://app.netlify.com/sites/tamayoleivaj/deploys)
+[website](https://yedomon-site.netlify.app/)
 
 </div>
