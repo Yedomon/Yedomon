@@ -7,21 +7,21 @@
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:angez9914@gmail.com"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/envelope-solid.svg" /></a>
 <a href="https://twitter.com/ange_omics"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/twitter.svg" /></a> 
-<a href="https://www.kaggle.com/jtamayo"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/kaggle.svg" /></a> 
-<a href="https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267/"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/linkedin.svg" /></a> 
-<a href="https://loop.frontiersin.org/people/1011798/"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/loop.svg" /></a> 
-<a href="https://orcid.org/0000-0003-2610-6957"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/orcid.svg" /></a> <a href="https://www.researchgate.net/profile/Javier-Tamayo"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/researchgate.svg" /></a>
-<a href="https://scholar.google.com/citations?user=Rr-4cmQwXX4C&hl=es"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/google-scholar.svg" /></a>
+<a href="https://www.kaggle.com/angeomics"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/kaggle.svg" /></a> 
+<a href="https://kr.linkedin.com/in/yedomon-ange-bovys-zoclanclounon-660a1755/"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/linkedin.svg" /></a> 
+<a href="https://loop.frontiersin.org/people/1553566/overview/"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/loop.svg" /></a> 
+<a href="https://orcid.org/0000-0003-2781-0778"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/orcid.svg" /></a> <a href="https://www.researchgate.net/profile/Yedomon-Zoclanclounon"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/researchgate.svg" /></a>
+<a href="https://scholar.google.fr/citations?user=r6FjIyQAAAAJ&hl=en"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/google-scholar.svg" /></a>
 </div>
 
 <div align="center">
   <h3 style="font-weight:normal" align="center">
-    &nbsp; Data Science, Data Visualization, Microbial Ecology & Genetics &nbsp; <br>
+    &nbsp; Data Science, Data Visualization, Plant Genomics & Genetics &nbsp; <br>
     <img height="28" width="28" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/linux.svg" />
     <img height="28" width="28" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/rstudio.svg" />
     <img height="28" width="28" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/github.svg" />
   </h3>
-I'm a trained microbial ecologist and a pushing data scientist. I'm a data-enthusiast focused on data analytics, modeling, and visualization to create and share knowledge and value. I'm always eager to learn new topics, techniques, and ways to show through dynamics tools. <br><br> MS.c. in Biotechnology <br> Ph.D. in Genetics & Microbiology.
+I am from Benin, a western African country. I am currently doing a Ph.D. at Jeonbuk National University in the Republic of South Korea. I am working in plant genomics domain with a focus on high-quality genome construction of both wild and cultivated sesame. My work is highly dominated by bioinformatics. I love playing with the programming languages such as perl, java with a great interest in R.. <br><br> MS.c. in Plant Pathology <br> Ph.D. Candidate in Plant Genomics & Breeding.
 </div>
 <br>
 <div align="center">
