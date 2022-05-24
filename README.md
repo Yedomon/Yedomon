@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:angez9914@gmail.com"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/envelope-solid.svg" /></a>
 <a href="https://twitter.com/ange_omics"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/twitter.svg" /></a> 
-<a href="https://www.kaggle.com/angeomics"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/kaggle.svg" /></a> 
+<a href="https://www.kaggle.com/AngeOmics"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/kaggle.svg" /></a> 
 <a href="https://kr.linkedin.com/in/yedomon-ange-bovys-zoclanclounon-660a1755/"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/linkedin.svg" /></a> 
 <a href="https://loop.frontiersin.org/people/1553566/overview/"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/loop.svg" /></a> 
 <a href="https://orcid.org/0000-0003-2781-0778"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/orcid.svg" /></a> <a href="https://www.researchgate.net/profile/Yedomon-Zoclanclounon"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/researchgate.svg" /></a>
