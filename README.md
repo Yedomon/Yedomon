@@ -21,7 +21,7 @@
     <img height="28" width="28" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/rstudio.svg" />
     <img height="28" width="28" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/github.svg" />
   </h3>
-I am from Benin <img  height="14" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" />, a western African country. I am currently doing a Ph.D. at Jeonbuk National University in the Republic of South Korea <img  height="14" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" />. I am a plant genomics enthusiast. I love playing with the programming languages such as perl, java with a great interest in R. My key area of interest is the plant specialiazed metabolites, their biosynthesis and evolutionnary patterns. <br><br> MS.c. in Plant Pathology <br> Ph.D. Candidate in Plant Genomics & Breeding
+I am from Benin <img  height="14" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" />, a western African country. I am currently doing a Ph.D. at Jeonbuk National University in the Republic of South Korea <img  height="14" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" />. I am a plant genomics enthusiast. I love playing with the programming languages such as perl, java with a great interest in R. My key area of interest is the plant specialiazed metabolites, their biosynthesis pathway and evolutionnary patterns. <br><br> MS.c. in Plant Pathology <br> Ph.D. Candidate in Plant Genomics & Breeding
 </div>
 <br>
 <div align="center">
