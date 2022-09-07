@@ -1,6 +1,6 @@
 
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Welcome, I'm Ange! &nbsp;<img height="34" width="34" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/mocha.svg" />&nbsp;
+  &nbsp;Welcome, I'm Ange! &nbsp;<img height="34" width="34" src="https://github.com/Yedomon/bioinformatics101/blob/main/logo/mocha.svg" />&nbsp;
 </h1>
 
 <div align="center">
